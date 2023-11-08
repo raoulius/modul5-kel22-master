@@ -11,7 +11,7 @@ export default function Game() {
             title: "Pokemon Yellow", id: 1,
             rate: 4,
             genre: "Adventure Game",
-            img: "https://archives.bulbagarden.net/media/upload/thumb/9/95/Yellow_EN_boxart.png/500px-Yellow_EN_boxart.png",
+            img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_YbZ3zATHkESnJvaSt-8EZmxGArndUTkHLq3aVb0gbZqzbZeq",
             desc: "Pokémon Yellow: Special Pikachu Edition is a remake of the multi-million selling Game Boy video games Pokémon Red and Blue that adapts the TV show's story. Rather than you being able to choose from three different starter Pokémon, there is already only one more Pokémon left, that one being Pikachu."
         },
         {
