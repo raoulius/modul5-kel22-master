@@ -13,26 +13,24 @@ export default function Movie() {
 
     const poster = [
         {
-            title: "John Wick 4", id: 1,
+            title: "John Wick", id: 1,
             rate: 4,
-            genre: "Action, Crime",
+            genre: "action, crime",
             img: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6d3d1461d50778271845ce7ec81ba2c5d76a20f7f84e5061cd099aabaedc77f9._RI_TTW_.jpg",
-            desc:"Condemned by the tyrannical High Table to be on the run for the rest of his life, deadly assassin maestro John Wick (2014) embarks on a Sisyphean mission of suicidal fury to decide his fate after the merciless carnage in John Wick: Chapter 3 - Parabellum (2019). At last, John's violent journey, fuelled by vengeance and grief, ultimately leads him to a fateful confrontation with his former employers, the crime masters that forced him into exile. And as the blood-stained vendetta to destroy those who pull the strings continues, old companions face the brutal consequences of friendship, and all-powerful, well-connected adversaries emerge to bring Wick's head on a platter. But talk is cheap--now guns have the final say. Can Baba Yaga, the grim messiah of death, make every bullet count in this bloody, once-and-for-all struggle for freedom?"
         },
         {
-            title: "Oppenheimer", id: 2,
+            title: "John Wick", id: 2,
             rate: 4,
-            genre: "Biography, Drama, History",
-            img: "https://m.media-amazon.com/images/I/71lqDylcvGL.jpg",
-            desc:"J. Robert Oppenheimer, the creator of The Atomic Bomb, is put on trial for his supposed communist ties in the past, all while coming to terms with what it meant to change the history of the world for the sake of winning World War Two. This is the story of how America's Prometheus was cast out by The Gods for giving mankind an unthinkable gift: power unlike any other, the power to destroy the world; the power of Olympus."
+            genre: "action, crime",
+            img: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6d3d1461d50778271845ce7ec81ba2c5d76a20f7f84e5061cd099aabaedc77f9._RI_TTW_.jpg",
         },
         {
-            title: "Mencuri Raden Saleh", id: 3,
-            rate: 5,
-            genre: "Drama, Action, Comedy, Drama",
-            img: "https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/mencuri-raden-saleh-364x455.jpg",
-            desc:"Film bergenre action, komedi, drama, dan heist ini bermula dari Piko (Iqbaal Ramadhan) dan Ucup (Angga Yunanda) dua anak muda yang tengah kebingungan mencari uang. Piko merupakan seorang mahasiswa seni rupa yang tengah mencari uang untuk memenuhi kebutuhan hidupnya. Untuk mencari uang, sehari-harinya Piko membuat lukisan imitasi untuk dijual. Sementara Ucup merupakan seorang hacker yang andal dalam membobol sistem keamanan.  Suatu hari keduanya mendapatkan tawaran untuk melukis lukisan imitasi dari maestro Raden Saleh. Dengan iming-iming imbalan yang besar, Piko mengiyakan tawaran itu tanpa berpikir panjang. Nominal bayaran tersebut, pikir Piko, cukup untuk membebaskan ayahnya dari penjara. Namun ketika lukisan imitasi telah dibuat, hal yang tak diduga muncul. Piko dan Ucup justru diminta untuk menjalankan misi lain yang begitu gila, yaitu menukar lukisan imitasi tersebut dengan lukisan asli di Istana Negara. Siapa sangka, klien mereka ternyata mantan presiden yang begitu menginkan lukisan “Menangkap Pangeran Diponegoro” karya Raden Saleh. Demi memuluskan keinginannya, sang mantan presiden mengancam Piko dan Ucup jika tak menolak misi tersebut, nyawa ayah Piko salah satunya."
+            title: "John Wick", id: 3,
+            rate: 4,
+            genre: "action, crime",
+            img: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6d3d1461d50778271845ce7ec81ba2c5d76a20f7f84e5061cd099aabaedc77f9._RI_TTW_.jpg",
         },
+
         {
             title: "Ku Kira Kau Rumah", id: 4,
             rate: 4,
